@@ -1,0 +1,3 @@
+D:/GitHub/lab07-Zener085/cmake-build-debug/CMakeFiles/lab07_Zener085.dir
+D:/GitHub/lab07-Zener085/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/GitHub/lab07-Zener085/cmake-build-debug/CMakeFiles/rebuild_cache.dir
